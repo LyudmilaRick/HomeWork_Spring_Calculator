@@ -1,6 +1,6 @@
 package pro.sky.java.course2.homework_spring;
 
-public interface iCalculator {
+public interface Calculator {
     /**
      * интерфейс
      */
